@@ -8,6 +8,14 @@ This project origins from pure minimalism and *lazyness* to not spin up swagger 
 The main part of this specification is the API-response although payload spec and general conventions shall follow.
 Goal is to have a solid foundation for simple yet descriptive API responses.
 
+## Content
+- [Basic Specification](basics.md)
+- [Request Spec](request.md)
+- [Response Spec](response.md)
+
+## Changelog
+- `0.0.1` Initial boundaries
+
 ## Contribute
 
 **Feel free to contribute in PRs or Issues**
